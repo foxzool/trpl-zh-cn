@@ -24,7 +24,7 @@ Rust 中的测试函数是用来验证非测试代码是否按照期望的方式
 让我们创建一个新的库项目 `adder`：
 
 ```text
-$ cargo new adder
+$ cargo new adder --lib
      Created library `adder` project
 $ cd adder
 ```
